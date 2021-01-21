@@ -1,0 +1,3 @@
+NOTE that you should enter this url into the link input.
+NOTE that it does not have _api at its end, it will be added by freecodecamp
+https://raw.githubusercontent.com/Maryam-Azizi/freecodecamp-node/gomix
